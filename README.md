@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/KenzoIshii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaduart&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KenzoIshii&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="R studio" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/dd8ddc34fe29a71c81183dbe3436cfabbb540e44/b7152/assets/img/rstudio-ball.svg"> 
