@@ -1,4 +1,4 @@
-### Oie! Eu sou a Ana Duarte 👋
+
 
 <!--
 **anaduart/anaduart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  <div>
-  <a href="https://github.com/anaduart">
+  <a href="https://github.com/KenzoIshii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaduart&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
 </div>
 <div style="display: inline_block"><br>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   ##
   
   <div> 
-  <a href = "mailto:ana-duart@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anaduart/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dev.kenzoishii@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/KenzoIshio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/KenzoIshii/KenzoIshii/blob/output/github-contribution-grid-snake.svg)
     
